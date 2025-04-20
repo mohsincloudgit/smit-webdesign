@@ -132,7 +132,12 @@
         padding: 30px;
         justify-self: auto;
     }
-
+    .question.active+.answercont {
+    border-radius: 0 0 70px 70px;
+    }
+    .question.active {
+    border-radius: 70px 70px 0 0;
+    }
 
 }
 
