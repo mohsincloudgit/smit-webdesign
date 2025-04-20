@@ -248,6 +248,16 @@
     .main-menu {
         align-items: flex-start;
     }
+    .hero-content h1 {
+    font-size: 50px;
+    }
+    .hero-content p {
+    font-size: 20px;
+    }
+    .accordion-main-heading p {
+    width: 50%;
+    }
+    
 
 }
 
