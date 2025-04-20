@@ -515,15 +515,6 @@ a.btn-slider-01 {
 }
 
 
-
-.form-image {
-    background-image: url(assets/images/form-right-img.webp);
-    /* position: relative; */
-    /* object-fit: cover; */
-    background-size: contain;
-}
-
-
 .form-toggle button.active::before {
     content: "";
     display: inline-block;
