@@ -477,6 +477,14 @@ a.btn-slider-01 {
     padding: 20px 0px;
 }
 
+.form-image img {
+    display: flex;
+    margin: 280px;
+    margin-bottom: 0px;
+    margin-top: 0;
+    margin-right: 0;
+}
+
 .forms .form {
     display: none;
     flex-direction: column;
